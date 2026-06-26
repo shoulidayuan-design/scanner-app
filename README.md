@@ -1,6 +1,17 @@
 # scanner-app
 
 
+## 実行例
+
+### 入力画像
+
+![Before](images/before.jpg)
+
+### 出力画像
+
+![After](images/after.jpg)
+
+
 ## 概要
 scanner-appは、撮影した書類画像から歪みや影を除去し、スキャナーで取り込んだような画像へ補正するPythonアプリケーションです。
 
